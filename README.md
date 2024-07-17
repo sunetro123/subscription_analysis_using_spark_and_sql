@@ -8,7 +8,7 @@ As a new kid in the block **Windenflix** set up a basic streaming transaction sy
    - event1: First (7 day trial) sign-up of an user
    - event2: Upgrade/Downgrade action of an user
    - event3: Auto-renew toggle event of an user
-   - event4: Scheduled automatic payment for an user ( if auto renewal is 'On')
+   - event4: Scheduled automatic payment for an user ( if auto renewal is '**On**')
 
 
 ## Common KPIs
