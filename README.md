@@ -10,14 +10,19 @@ As a new kid in the block **Windenflix** set up a basic streaming transaction sy
    - event3: Auto-renew toggle event of an user
    - event4: Scheduled automatic payment for an user ( if auto renewal is '**On**')
 
-
-## Common KPIs
+## The Questions:
 
  - Total active customers across different tiers in a month or quarter
  - How many new Acquistion in a month ?
  - How many Cancellation in a month ?
  - How many customers downgraded or upgraded tier in a month ?
  - How many customers got reacquired in a month ?
+
+## Start with -> `Data Model`
+
+### Input Payload
+
+### Tables and How They Tie Up 
    
 
 
