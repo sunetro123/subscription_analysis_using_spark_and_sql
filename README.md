@@ -23,8 +23,21 @@ As a new kid in the block **Windenflix** set up a basic streaming transaction sy
 ### Input Payload
 
 ### Tables and How They Tie Up 
+
+## Design Consideration
    
 
+## Enter the -> Data Engineer
+
+### Infrastructure
+
+### Set Up
+
+## Think about -> `Scale`
+
+per geography
+
+## 
 
 ## Transaction Table:
 - event_date
