@@ -1,9 +1,14 @@
 # SUMMARY
 An end to end workflow for analyzing memebership and financial health of a content subscription company
 
-## Scope and Assumption
+## The Story
 
-Company 'Windenflix' is a subscription company
+**Windenflix** is a company offering subscription service for streaming digital content in **5** different tiers. 
+As a new kid in the block **Windenflix** set up a basic streaming transaction system that captures events such as:
+   - event1: First (7 day trial) sign-up of an user
+   - event2: Upgrade/Downgrade action of an user
+   - event3: Auto-renew toggle event of an user
+   - event4: Scheduled automatic payment for an user ( if auto renewal is 'On')
 
 
 ## Common KPIs
