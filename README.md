@@ -1,5 +1,9 @@
 # SUMMARY
-Data Engineering Repo to Show Data Analysis on Subscription Transactions
+An end to end workflow for analyzing memebership and financial health of a content subscription company
+
+## Scope and Assumption
+
+Company 'Windenflix' is a subscription company
 
 
 ## Common KPIs
