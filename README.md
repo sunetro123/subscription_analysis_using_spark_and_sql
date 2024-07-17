@@ -2,6 +2,16 @@
 Data Engineering Repo to Show Data Analysis on Subscription Transactions
 
 
+## Common KPIs
+
+ - Total active customers across different tiers in a month or quarter
+ - How many new Acquistion in a month ?
+ - How many Cancellation in a month ?
+ - How many customers downgraded or upgraded tier in a month ?
+ - How many customers got reacquired in a month ?
+   
+
+
 ## Transaction Table:
 - event_date
 - customer_id
